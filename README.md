@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# NASA Astronomy Picture of the Day
+using NASA APOD API built this website to view the photo of the day with some informations about it.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
